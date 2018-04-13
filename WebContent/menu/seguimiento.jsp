@@ -26,17 +26,17 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="menu.jsp">ASA</a>
+            <a class="navbar-brand" href="../menu.jsp">ASA</a>
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
             
-              <li class="active"><a href="menu/administradores.jsp">Administradores</a></li>
-              <li><a href="menu/catalogos.jsp">Catalogos</a></li>
-              <li><a href="menu/verificacion.jsp"">List Verificación</a></li>
-              <li><a href="menu/seguimiento.jsp">Seguimiento Comp</a></li>
-              <li><a href="menu/reportes.jsp">Reportes</a></li>
-              <li><a href="menu/indicadores.jsp">Indicadores</a></li>
+              <li><a href="administradores.jsp">Administradores</a></li>
+              <li><a href="catalogos.jsp">Catalogos</a></li>
+              <li><a href="verificacion.jsp"">List Verificación</a></li>
+              <li class="active"><a href="seguimiento.jsp">Seguimiento Comp</a></li>
+              <li><a href="reportes.jsp">Reportes</a></li>
+              <li><a href="indicadores.jsp">Indicadores</a></li>
               
             </ul>
           </div><!--/.nav-collapse -->
@@ -45,8 +45,8 @@
 
       <!-- Main component for a primary marketing message or call to action -->
       <div class="jumbotron">
-        <h1>Menu Principal ASA</h1>
-        <p>Bienvenido al Sistema de ASA</p>
+        <h1>Seguimiento</h1>
+        <p>Operaciones para Seguimiento</p>
         
       </div>
 
